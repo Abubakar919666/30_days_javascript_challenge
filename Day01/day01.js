@@ -1,3 +1,5 @@
+//================================== Activity 1 ==================================
+
 //  Task 01
 
 var num = 24;
@@ -8,10 +10,16 @@ console.log(num);
 let str = "Abubakar";
 console.log(str); 
 
+
+//================================== Activity 2 ==================================
+
 //  Task 03
 
 const isVerified = true;
 console.log(isVerified);
+
+
+//================================== Activity 3 ==================================
 
 //  Task 04
 
@@ -30,6 +38,9 @@ const carName = {
 };
 console.log(`carName: ${carName}, type: ${typeof carName}`);
 
+
+//================================== Activity 4 ==================================
+
 //  Task 05
 
 let car = "A black Vigo";
@@ -37,6 +48,8 @@ console.log(`car: ${car}, type: ${typeof car}`);
 car = "A white Vigo";
 console.log(`car: ${car}, type: ${typeof car}`);
 
+
+//================================== Activity 5 ==================================
 
 //  Task 06 
 
@@ -49,8 +62,8 @@ console.log('Id (initial):' , Id);
 
 
 
-  
-// Feature Request: Variable Types Console Log
+// ================================== Feature Request: Variable Types Console Log ==================================  
+
 //   Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
  
 
@@ -73,9 +86,8 @@ console.log(`stdName: ${stdName}, type: ${typeof stdName}`);
 
 
 
-
+// ================================== Feature Request: Reassignment Demo ==================================  
   
-//    Feature Request: Reassignment Demo
 //    Create a script that demonstrates the difference in behavior between `let` and `const` when it comes to reassignment.
  
 
