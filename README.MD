@@ -1,4 +1,4 @@
-# **Chaicode - 30 Days JavaScript Challenge** 🎯
+# **Chaiaurcode - 30 Days JavaScript Challenge** 🎯
 
 > ## [30-Days-JavaScript-Challenge by Hitesh Choudhary](https://courses.chaicode.com/learn/home) 
 <br/>
