@@ -1,6 +1,6 @@
 # **Chaicode - 30 Days JavaScript Challenge** 🎯
 
-> ## [30-Days-JavaScript-Challenge](https://courses.chaicode.com/learn/home) by [Hitesh Choudhary] This repository contains Solutions Code of 30 Days JavaScript Challenge.
+> ## [30-Days-JavaScript-Challenge](https://courses.chaicode.com/learn/home) by [Hitesh Choudhary] 
 <br/>
 
 ## **Clone this Repository** 
