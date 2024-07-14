@@ -1,6 +1,6 @@
 # **Chaicode - 30 Days JavaScript Challenge** 🎯
 
-> ## [30-Days-JavaScript-Challenge](https://courses.chaicode.com/learn/home)by(Hitesh Choudhary) 
+> ## [30-Days-JavaScript-Challenge by Hitesh Choudhary](https://courses.chaicode.com/learn/home)by(Hitesh Choudhary) 
 <br/>
 
 ## **Clone this Repository** 
