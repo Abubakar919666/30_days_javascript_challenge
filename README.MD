@@ -1,7 +1,8 @@
 # **Chaicode - 30 Days JavaScript Challenge** 🎯
 
-> ## [30-Days-JavaScript-Challenge](https://courses.chaicode.com/learn/home) by [Hitesh Choudhary] This repository contains Assignment Solution Codes of 30 Days JavaScript Challenge.
+> ## [30-Days-JavaScript-Challenge](https://courses.chaicode.com/learn/home) by [Hitesh Choudhary] This repository contains Solutions Code of 30 Days JavaScript Challenge.
 <br/>
+
 ## **Clone this Repository** 
 You need to write the following commands on the `terminal screen` so that you can run this project locally.
 
