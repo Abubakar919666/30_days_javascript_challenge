@@ -38,5 +38,45 @@ let subAssigment = 15;
 subAssigment -= 3;
 console.log(`I read in grade ${subAssigment}`);
 
+
+
+
+let user1 = 10;
+let user2 = 5;
+
 // Task 08
+
+console.log(`user1 < user2: ${user1 < user2}`);
+console.log(`user1 > user2: ${user1 > user2}`);
+
+
+// Task 09
+
+console.log(`user1 <= user2: ${user1 <= user2}`);
+console.log(`user1 >= user2: ${user1 >= user2}`);
+
+
+// Task 10
+
+console.log(`user1 == user2: ${user1 == user2}`);
+console.log(`user1 === user2: ${user1 === user2}`);
+
+
+// Task 11
+
+console.log(`user1 <= 10 && user2 >= 5: ${user1 <= 10 && user2 >= 5}`);
+
+// Task 12
+
+console.log(`user1 < 10 || user2 >= 5: ${user1 < 10 || user2 >= 5}`);
+
+// Task 13
+
+console.log(`!user1 < 10: ${!user1 > 15}`);
+
+// Task 14 
+
+const gender = "female"
+
+console.log(`${gender? "She" : "HE"} is a collage student`);
 
