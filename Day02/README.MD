@@ -16,7 +16,7 @@
 * **Task 7:** Use the `-=` operator to subtract a number from a variable and log the result to the console.
 
 ### Activity 3: Comparison Operators
-
+ 
 * **Task 8:** Write a program to compare two numbers using `>` and `<` and log the result to the console.
 * **Task 9:** Write a program to compare two numbers using `>=` and `<=` and log the result to the console.
 * **Task 10:** Write a program to compare two numbers using `==` and `===` and log the result to the console.
