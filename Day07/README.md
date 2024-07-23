@@ -1,35 +1,39 @@
-# Day 7: Objects
+# Day 1: Variables and Data Types
 
-## Tasks/Activities
+## Tasks/Activities:
 
-### Activity 1: Object Creation and Access
-- **Task 1**: Create a book object with properties like title, author, and year. Log it to the console.
-- **Task 2**: Access and log the title and author properties.
+### Activity 1: Variable Declaration
 
-### Activity 2: Object Methods
-- **Task 3**: Add a method to return a string with the book's title and author. Log the result.
-- **Task 4**: Add a method to update the book's year and log the updated object.
+* **Task 1:** Declare a variable using `var`, assign it a number, and log the value to the console.
+* **Task 2:** Declare a variable using `let`, assign it a string, and log the value to the console.
 
-### Activity 3: Nested Objects
-- **Task 5**: Create a library object with name and books (array of book objects). Log it to the console.
-- **Task 6**: Log the library's name and book titles.
+### Activity 2: Constant Declaration
 
-### Activity 4: The `this` Keyword
-- **Task 7**: Add a method using `this` to return the book’s title and year. Log the result.
+* **Task 3:** Declare a variable using `const`, assign it a boolean value, and log the value to the console.
 
-### Activity 5: Object Iteration
-- **Task 8**: Use a `for...in` loop to log each property and its value.
-- **Task 9**: Use `Object.keys` and `Object.values` to log all keys and values.
+### Activity 3: Data Types
 
-## Feature Request
+* **Task 4:** Create variables of different data types (number, string, boolean, object, array) and log each variable's type using the `typeof` operator.
 
-1. **Book Object Script**: Create a book object, add methods, and log properties and results.
-2. **Library Object Script**: Define a library object with book objects and log details.
-3. **Object Iteration Script**: Demonstrate iterating over an object's properties using `for...in` and `Object.keys`/`Object.values`.
+### Activity 4: Reassigning Variables
 
-## Achievement
+* **Task 5:** Declare a variable using `let`, assign it an initial value, reassign a new value, and log both values to the console.
 
-- Create and manipulate objects with properties and methods.
-- Use the `this` keyword in object methods.
-- Work with nested objects and arrays.
-- Iterate over an object's properties using loops and built-in methods.
+### Activity 5: Understanding `const`
+
+* **Task 6:** Try reassigning a variable declared with `const` and observe the error.
+
+## Feature Request:
+
+1. **Variable Types Console Log:** Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
+2. **Reassignment Demo:** Create a script that demonstrates the difference in behavior between `let` and `const` when it comes to reassignment.
+
+## Achievement:
+
+By the end of these activities, you will:
+
+* Know how to declare variables using `var`, `let`, and `const`.
+* Understand the different data types in JavaScript.
+* Be able to use the `typeof` operator to identify the data type of a variable.
+* Understand the concept of variable reassignment and the immutability of `const` variables.
+
