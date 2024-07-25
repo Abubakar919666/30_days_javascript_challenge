@@ -1,4 +1,4 @@
-
+//================================== Activity 1 : Arithmetic Operations ================================== \\
 let firstNumber = 14;
 let secondNumber = 10;
 
@@ -26,6 +26,9 @@ console.log(divide);
 let remainder = firstNumber % secondNumber;
 console.log(remainder);
 
+
+//================================== Activity 2 : Assignment Operators ================================== \\
+
 // Task 06
 
 let addAssigment = 15;
@@ -40,7 +43,7 @@ console.log(`I read in grade ${subAssigment}`);
 
 
 
-
+//================================== Activity 3 : Comparison Operators ================================== \\
 let user1 = 10;
 let user2 = 5;
 
@@ -62,6 +65,7 @@ console.log(`user1 == user2: ${user1 == user2}`);
 console.log(`user1 === user2: ${user1 === user2}`);
 
 
+//================================== Activity 4 : Logical Operators ================================== \\
 // Task 11
 
 console.log(`user1 <= 10 && user2 >= 5: ${user1 <= 10 && user2 >= 5}`);
@@ -75,7 +79,7 @@ console.log(`user1 < 10 || user2 >= 5: ${user1 < 10 || user2 >= 5}`);
 console.log(`!user1 < 10: ${!user1 > 15}`);
 
 
-
+//================================== Activity 5 : Ternary Operator ================================== \\
 // Task 14 
 
 let result = user1 < 0 ? 'Positive' : 'Negative';

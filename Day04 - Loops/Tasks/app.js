@@ -1,13 +1,11 @@
 // Loop
-
+//================================== Activity 1: For Loop ================================== \\
 // Task 01
 
     for (let i = 1; i <= 10; i++) {
         const element = i;
             console.log(element);
     }
-
-
 
 
 
@@ -23,8 +21,8 @@
 
 
 
-
-
+//================================== Activity 2: While Loop ================================== \\
+    
 // Task 03
 
 // sum += i; adds the current value of i to sum. This is shorthand for sum = sum + i;.
@@ -58,8 +56,6 @@ let i = 1;
 
 
 
-
-
 // Task 04 
 
     let index = 10
@@ -73,8 +69,8 @@ let i = 1;
 
 
 
-
-
+//================================== Activity 3: Do...While Loop ================================== \\
+    
 // Task 05
 
     let num = 1
@@ -86,10 +82,8 @@ let i = 1;
 
 
 
-
-
-
-
+//================================== Activity 4: Nested Loops ================================== \\
+    
 // Task 06 very difficult
 
 // 10! = 1*2*3*4*5*6*7*8*9*10
@@ -107,8 +101,7 @@ let number = 1;
 
 
 
-
-// // Task 07
+// Task 07
  
 for (let i = 1; i <= 5; i++) {
     let row = " ";
@@ -120,7 +113,7 @@ for (let i = 1; i <= 5; i++) {
 
 
 
-
+//================================== Activity 5: Loop Control Statements ================================== \\
 
 // Task 08
 
@@ -131,10 +124,6 @@ for (let i = 1; i <= 5; i++) {
         console.log(index);
     
     }
-
-
-
-
 
     
 // Task 09
