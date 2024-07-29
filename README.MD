@@ -34,12 +34,12 @@ node fileName.js
 - [x] Day 9: [DOM Manipulation](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day09%20-%20DOM%20Manipulation)
 - [x] Day 10: [Event Handling](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day10%20-%20Event%20Handling)
 - [x] Day 11: [Promises and Async/Await](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day11%20-%20Promises%20and%20Async/Await)
-- [x] Day 12: [Error Handling]()
-- [x] Day 13: [Modules]()
-- [x] Day 14: [Classes]()
-- [x] Day 15: [Closures]()
-- [x] Day 16: [Recursion]()
-- [x] Day 17: [Data Structures]()
+- [x] Day 12: [Error Handling](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day12%20-%20Error%20Handling)
+- [x] Day 13: [Modules](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day13%20-%20Modules)
+- [x] Day 14: [Classes](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day14%20-%20Classes)
+- [x] Day 15: [Closures](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day15%20-%20Closures)
+- [x] Day 16: [Recursion](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day16%20-%20Recursion)
+- [x] Day 17: [Data Structures](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day17%20-%20Data%20Structures)
 - [ ] Day 18:
 - [ ] Day 19:
 - [ ] Day 20:
