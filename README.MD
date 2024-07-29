@@ -34,12 +34,12 @@ node fileName.js
 - [x] Day 9: [DOM Manipulation](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day09%20-%20DOM%20Manipulation)
 - [x] Day 10: [Event Handling](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day10%20-%20Event%20Handling)
 - [x] Day 11: [Promises and Async/Await](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day11%20-%20Promises%20and%20Async/Await)
-- [ ] Day 12:
-- [ ] Day 13:
-- [ ] Day 14:
-- [ ] Day 15:
-- [ ] Day 16:
-- [ ] Day 17:
+- [x] Day 12: [Error Handling]()
+- [x] Day 13: [Modules]()
+- [x] Day 14: [Classes]()
+- [x] Day 15: [Closures]()
+- [x] Day 16: [Recursion]()
+- [x] Day 17: [Data Structures]()
 - [ ] Day 18:
 - [ ] Day 19:
 - [ ] Day 20:
