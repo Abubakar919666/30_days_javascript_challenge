@@ -1,52 +1,56 @@
-// Task 01
+// // Task 01
 
-let arr = [1, 2, 3, 4, 5];
-console.log(arr);
-
-
-
-// Task 2
-
-// Access first element of arr
-console.log(arr[0]);
-
-// Access last element of arr
-console.log(arr[4]);
+// let arr = [1, 2, 3, 4, 5];
+// console.log(arr);
 
 
 
-// Task 03
+// // Task 2
 
-// arr.push(6);
-arr.push(6)
-console.log(arr);
+// // Access first element of arr
+// console.log(arr[0]);
 
-
-
-// Task 04
-
-// pop method
-arr.pop()
-console.log(arr);
+// // Access last element of arr
+// console.log(arr[4]);
 
 
 
-// Task 05
+// // Task 03
 
-// shift method
-arr.shift()
-console.log(arr);
-
-
-
-// Task 06
-
-// unShift method
-arr.unshift(1)
-console.log(arr);
+// // arr.push(6);
+// arr.push(6)
+// console.log(arr);
 
 
-// Task 07
+
+// // Task 04
+
+// // pop method
+// arr.pop()
+// console.log(arr);
+
+
+
+
+// // Task 05
+
+// // shift method
+// arr.shift()
+// console.log(arr);
+
+
+
+
+// // Task 06
+
+// // unShift method
+// arr.unshift(1)
+// console.log(arr);
+
+
+
+
+// // Task 07
     
 
 
@@ -57,9 +61,13 @@ console.log(arr);
 
 // Task 08
 
+const evenNum = [2, 4, 6, 8, 10]
 
+const new_evenNum = evenNum.filter((num) => {
+    return num > 4
+})
 
-
+console.log(new_evenNum);
 
 
 
@@ -69,47 +77,49 @@ console.log(arr);
 
 
 
-// Task 10
 
-let arr1 = [1, 3, 4, 5, 6]
 
-for (let index = 0; index < arr1.length; index++) {
-    const element = arr1[index];
-    console.log(element);
+// // Task 10
+
+// let arr1 = [1, 3, 4, 5, 6]
+
+// for (let index = 0; index < arr1.length; index++) {
+//     const element = arr1[index];
+//     console.log(element);
     
-}
+// }
 
 
 
-// Task 11
+// // Task 11
 
-    arr1.forEach(element => {
-        console.log(element);
-    })
-
-
-// Task 12
-
-let matrix = [
-    [2, 4, 6, 8],
-    [10, 12, 14, 16],
-    [18, 20, 22, 24]
-]
-console.log(matrix);
+//     arr1.forEach(element => {
+//         console.log(element);
+//     })
 
 
-// Task 13
+// // Task 12
 
-console.log(matrix[0][0]);
-console.log(matrix[0][1]);
-console.log(matrix[0][2]);
-console.log(matrix[0][3]);
-console.log(matrix[1][0]);
-console.log(matrix[1][1]);
-console.log(matrix[1][2]);
-console.log(matrix[1][3]);
-console.log(matrix[2][0]);
-console.log(matrix[2][1]);
-console.log(matrix[2][2]);
-console.log(matrix[2][3]);
+// let matrix = [
+//     [2, 4, 6, 8],
+//     [10, 12, 14, 16],
+//     [18, 20, 22, 24]
+// ]
+// console.log(matrix);
+
+
+// // Task 13
+
+// console.log(matrix[0][0]);
+// console.log(matrix[0][1]);
+// console.log(matrix[0][2]);
+// console.log(matrix[0][3]);
+// console.log(matrix[1][0]);
+// console.log(matrix[1][1]);
+// console.log(matrix[1][2]);
+// console.log(matrix[1][3]);
+// console.log(matrix[2][0]);
+// console.log(matrix[2][1]);
+// console.log(matrix[2][2]);
+// console.log(matrix[2][3]);
 

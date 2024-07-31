@@ -55,7 +55,7 @@ console.log(`car: ${car}, type: ${typeof car}`);
 
 const Id = 119;
 console.log('Id (initial):' , Id);
-// Id = 120;
+Id = 120;
 // console.log('Id (initial):' , Id); // Uncomment the following line to view the error. TypeError: Assignment to constant variable.
 
 
