@@ -40,9 +40,9 @@ node fileName.js
 - [x] Day 15: [Closures](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day15%20-%20Closures)
 - [x] Day 16: [Recursion](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day16%20-%20Recursion)
 - [x] Day 17: [Data Structures](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day17%20-%20Data%20Structures)
-- [ ] Day 18:
-- [ ] Day 19:
-- [ ] Day 20:
+- [x] Day 18: [Algorithms]()
+- [x] Day 19: [Regular Expressions]()
+- [x] Day 20: [LocalStorage and SessionStorage]()
 - [ ] Day 21:
 - [ ] Day 22:
 - [ ] Day 23:
