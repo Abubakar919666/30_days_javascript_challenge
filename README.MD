@@ -43,10 +43,10 @@ node fileName.js
 - [x] Day 18: [Algorithms](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day18%20-%20Algorithms)
 - [x] Day 19: [Regular Expressions](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day19%20-%20Regular%20Expressions)
 - [x] Day 20: [LocalStorage and SessionStorage](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day20%20-%20LocalStorage%20and%20SessionStorage)
-- [ ] Day 21:
-- [ ] Day 22:
-- [ ] Day 23:
-- [ ] Day 24:
+- [x] Day 21: [LeetCode Easy]()
+- [x] Day 22: [LeetCode Medium]()
+- [x] Day 23: [LeetCode Hard]()
+- [x] Day 24: [Weather app]()
 - [ ] Day 25:
 - [ ] Day 26:
 - [ ] Day 27:
