@@ -11,7 +11,7 @@
 - **Task 4**: Add a method to update the book's year and log the updated object.
 
 ### Activity 3: Nested Objects
-- **Task 5**: Create a library sfgsobject with name and books (array of book objects). Log it to the console.
+- **Task 5**: Create a library  with name and books (array of book objects). Log it to the console.
 - **Task 6**: Log the library's name and book titles.
 
 ### Activity 4: The `this` Keyword
