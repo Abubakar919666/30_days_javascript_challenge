@@ -52,8 +52,11 @@
 
 // // Task 07
     
+// const oldArr = [1, 2, 3, 4, 5 ];
 
+// const doubleNum = oldArr.map((num)=> num * 2); 
 
+// console.log(doubleNum);
 
 
 
@@ -61,20 +64,23 @@
 
 // Task 08
 
-const evenNum = [2, 4, 6, 8, 10]
+// const evenNum = [2, 4, 6, 8, 10]
 
-const new_evenNum = evenNum.filter((num) => {
-    return num > 4
-})
+// const new_evenNum = evenNum.filter((num) => {
+//     return num > 4
+// })
 
-console.log(new_evenNum);
+// console.log(new_evenNum);
 
 
 
 
 
 // Task 09
+let arr = [1, 2, 3, 4, 5];
 
+let sum = arr.reduce((acc, num) => acc + num, 0);
+console.log(sum);
 
 
 
