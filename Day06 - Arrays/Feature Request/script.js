@@ -1,6 +1,55 @@
-// ================================== Feature Request: Array Transformation Script ==================================  \\
-// Use `map`, `filter`, and `reduce` methods to transform and aggregate array data.
+// ================================== Feature Request: Array Manipulation Script ==================================  \\
 
+// Demonstrate creating an array, adding/removing elements using `push`, `pop`, `shift`, and `unshift`.
+
+// Create an array with some initial elements
+let fruits = ['apple', 'banana', 'cherry'];
+console.log(fruits); // Output: ['apple', 'banana', 'cherry']
+
+// Adding Elements:
+fruits.push('date');
+console.log(fruits); // Output: ['apple', 'banana', 'cherry', 'date']
+
+fruits.push('elderberry', 'fig');
+console.log(fruits); // Output: ['apple', 'banana', 'cherry', 'date', 'elderberry', 'fig']
+
+// Using "unshift":
+fruits.unshift('avocado');
+console.log(fruits); // Output: ['avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry', 'fig']
+
+fruits.unshift('grapefruit', 'honeydew');
+console.log(fruits); // Output: ['grapefruit', 'honeydew', 'avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry', 'fig']
+
+// Removing Elements:
+let lastFruit = fruits.pop();
+console.log(lastFruit); // Output: 'fig'
+console.log(fruits); // Output: ['grapefruit', 'honeydew', 'avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry']
+
+// Using shift:
+let firstFruit = fruits.shift();
+console.log(firstFruit); // Output: 'grapefruit'
+console.log(fruits); // Output: ['honeydew', 'avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry']
+
+// Combining Methods:
+fruits.push('grape');
+console.log(fruits); // Output: ['honeydew', 'avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry', 'grape']
+
+fruits.unshift('kiwi');
+console.log(fruits); // Output: ['kiwi', 'honeydew', 'avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry', 'grape']
+
+fruits.pop();
+console.log(fruits); // Output: ['kiwi', 'honeydew', 'avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry']
+
+fruits.shift();
+console.log(fruits); // Output: ['honeydew', 'avocado', 'apple', 'banana', 'cherry', 'date', 'elderberry']
+
+
+
+
+
+// ================================== Feature Request: Array Transformation Script ==================================  \\
+
+// Use `map`, `filter`, and `reduce` methods to transform and aggregate array data.
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 // Step 1: Double each number
@@ -18,7 +67,9 @@ console.log('Sum of Filtered Numbers:', sum); // 90
 
 
 
+
 // ================================== Feature Request: Array Iteration Script ==================================  \\
+
 // Iterate over an array using both `for` loop and `forEach` method and log each element.
 
 // Using a ""for Loop"
@@ -34,6 +85,7 @@ console.log('Using forEach method:');
 array.forEach(element => {
     console.log(element);
 });
+
 
 
 // ================================== Feature Request: Two-dimensional Array Script ==================================  \\
