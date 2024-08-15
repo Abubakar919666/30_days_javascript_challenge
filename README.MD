@@ -47,10 +47,10 @@ node fileName.js
 - [x] Day 22: [LeetCode Medium]()
 - [x] Day 23: [LeetCode Hard]()
 - [x] Day 24: [Weather app]()
-- [ ] Day 25: []()
-- [ ] Day 26: []()
-- [ ] Day 27: []()
-- [ ] Day 28: []()
+- [x] Day 25: []()
+- [X] Day 26: []()
+- [x] Day 27: []()
+- [x] Day 28: []()
 - [ ] Day 29:
 - [ ] Day 30:
 
