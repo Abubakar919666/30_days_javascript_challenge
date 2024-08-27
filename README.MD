@@ -43,16 +43,16 @@ node fileName.js
 - [x] Day 18: [Algorithms](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day18%20-%20Algorithms)
 - [x] Day 19: [Regular Expressions](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day19%20-%20Regular%20Expressions)
 - [x] Day 20: [LocalStorage and SessionStorage](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day20%20-%20LocalStorage%20and%20SessionStorage)
-- [x] Day 21: [LeetCode Easy]()
-- [x] Day 22: [LeetCode Medium]()
-- [x] Day 23: [LeetCode Hard]()
-- [x] Day 24: [Weather app]()
-- [x] Day 25: []()
-- [X] Day 26: []()
-- [x] Day 27: []()
-- [x] Day 28: []()
-- [ ] Day 29:
-- [ ] Day 30:
+- [x] Day 21: [LeetCode Easy](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day21%20-%20LeetCode%20Easy)
+- [x] Day 22: [LeetCode Medium](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day22%20-%20LeetCode%20Medium)
+- [x] Day 23: [LeetCode Hard](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day23%20-%20LeetCode%20Hard)
+- [x] Day 24: [Weather app](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day24%20-%20Weather%20App)
+- [x] Day 25: [Movie Search App](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day25%20-%20Movie%20Search%20App)
+- [X] Day 26: [Chat Application](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day26%20-%20Chat%20Application)
+- [x] Day 27: [Task Management App](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day27%20-%20Task%20Management%20App)
+- [x] Day 28: [E-commerce Website](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day28%20-%20E-commerce%20Website)
+- [x] Day 29: []()
+- [x] Day 30: []()
 
 
 ## 🔗 **Let's Connect** 🤝
