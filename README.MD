@@ -51,7 +51,7 @@ node fileName.js
 - [X] Day 26: [Chat Application](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day26%20-%20Chat%20Application)
 - [x] Day 27: [Task Management App](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day27%20-%20Task%20Management%20App)
 - [x] Day 28: [E-commerce Website](https://github.com/Abubakar919666/30_days_javascript_challenge/tree/main/Day28%20-%20E-commerce%20Website)
-- [x] Day 29: []()
+- [x] Day 29: [Realstate Application]()
 - [x] Day 30: []()
 
 
