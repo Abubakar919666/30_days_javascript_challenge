@@ -29,7 +29,6 @@
 3. **Concatenation Function Script:** Concatenate two strings.
 4. **Sum Calculation Arrow Function Script:** Sum of two numbers.
 5. **Higher-Order Function Script:** Apply a function multiple times.
-6. Calculate some other function in behind of other function 
 
 ## Achievement
 
