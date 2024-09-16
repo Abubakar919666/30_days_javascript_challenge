@@ -24,7 +24,7 @@
 
 ## Feature Request
 
-1. **Even or Odd Function Script:** Check if a number is even or odd.
+1.... **Even or Odd Function Script:** Check if a number is even or odd.
 2. **Square Calculation Function Script:** Calculate the square of a number.
 3. **Concatenation Function Script:** Concatenate two strings.
 4. **Sum Calculation Arrow Function Script:** Sum of two numbers.
