@@ -36,6 +36,7 @@
 3. **Creating Posts Script**: Write a script to handle a form submission for creating posts and displaying them in the feed.
 4. **Displaying Posts Script**: Write a script to handle liking and commenting post     
 5. **Post Interactions Script**:
+s
 6. **Notifications Script**:
 7. **Enhancing the UI Script**:
 
